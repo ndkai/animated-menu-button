@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:animated_menu_button/components/animated_,menu_button.dart';
+
+import 'components/animated_,menu_button.dart';
 
 class ExamplePage extends StatelessWidget {
   const ExamplePage({super.key});
