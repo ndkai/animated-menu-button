@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rotate_pills_animation/components/animated_,menu_button.dart';
+import 'package:animated_menu_button/components/animated_,menu_button.dart';
 
 class ExamplePage extends StatelessWidget {
   const ExamplePage({super.key});

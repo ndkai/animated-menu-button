@@ -5,10 +5,10 @@
 This is provide the animated button that can help ui further your UI jouney
 
 
-### Example
-![Example Video](assets/example.mp4)
+### Demo
+https://drive.google.com/file/d/1YVmRYFRv36nfILjMHtaE8mJyDDRiiDzv/view?usp=sharing
 
-## Code from File
+## Example
 ```dart
 # File: example.dart
 
