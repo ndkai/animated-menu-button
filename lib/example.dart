@@ -40,7 +40,6 @@ class ExamplePage extends StatelessWidget {
                     actionWidgets: [
                       InkWell(
                         onTap: () {
-                          print("add");
                         },
                         child: item(
                           color: Colors.green,
@@ -49,7 +48,6 @@ class ExamplePage extends StatelessWidget {
                       ),
                       InkWell(
                         onTap: () {
-                          print("image");
                         },
                         child: item(
                           color: Colors.blue,
@@ -58,7 +56,6 @@ class ExamplePage extends StatelessWidget {
                       ),
                       InkWell(
                         onTap: () {
-                          print("cached_rounded");
                         },
                         child: item(
                           color: Colors.red,
