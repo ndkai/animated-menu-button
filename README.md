@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is provide the animated button that can help ui further your UI jouney
+This provides the animated button that can help UI further your UI journey
 
 
 ### Demo
-https://drive.google.com/file/d/1YVmRYFRv36nfILjMHtaE8mJyDDRiiDzv/view?usp=sharing
+[![Watch the video](https://img.youtube.com/vi/RcnkRDFRK44/0.jpg)](https://www.youtube.com/watch?v=RcnkRDFRK44)
 
 ## Example
 ```dart
